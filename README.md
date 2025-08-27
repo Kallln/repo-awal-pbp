@@ -1,1 +1,4 @@
-Nama : Ahmad Haikal Najmuddin\nNPM : 2406436000\nKelas: PBP F\nJurusan Ilmu Komputer 
+Nama : Ahmad Haikal Najmuddin 
+NPM : 2406436000 
+Kelas : PBP F 
+Jurusan : Ilmu Komputer 
